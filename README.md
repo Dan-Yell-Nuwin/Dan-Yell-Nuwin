@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-##checkout my github: http://dan-yell-nuwin.github.io/
+Checkout my github: http://dan-yell-nuwin.github.io/.
+
+Thanks!
 
 <!--
 **Dan-Yell-Nuwin/Dan-Yell-Nuwin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

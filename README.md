@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Checkout my github: http://dan-yell-nuwin.github.io/.
+Checkout my github portfolio: http://dan-yell-nuwin.github.io/.
 
 Thanks!
 
